@@ -1,0 +1,6 @@
+code: npsexample1-bundle
+description: This is the npsjhipster1 bundle
+
+components:
+   widgets:
+     - widgets/nps-example-widget.yaml

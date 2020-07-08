@@ -1,0 +1,6 @@
+code: nps-example-widget
+titles:
+  en: NPS Example Widget
+  it: Widget d'esempio
+group: free
+customUi: <h2>Hello from NPS Example Widget</h2>
